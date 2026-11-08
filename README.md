@@ -41,7 +41,7 @@
 
 ### 📂 requirements (Требования и анализ)
 *   **[Каталог стейкхолдеров и их интересы](./requirements/stakeholders_catalog_and_needs.xlsx)** — анализ стейкхолдеров, их потребностей и проблем (AS IS).
-*   **[Спецификация Use Cases](./requirements/use cases)** — детальные сценарии (UC02, UC04), включая альтернативные потоки.
+*   **[Спецификация Use Cases](requirements/use_cases)** — детальные сценарии (UC02, UC04), включая альтернативные потоки.
 *   **[Пользовательские истории (User Stories)](./requirements/user stories)** — истории с критериями приемки и тестовыми сценариями (INVEST, 3C).
 *   **[Нефункциональные требования (НФТ)](./requirements/non_functional_requirements.xlsx)** — требования к производительности, безопасности и надежности.
 
